@@ -3,6 +3,8 @@
 
 .idea
 .gradle
+build
+out
 
 # User-specific stuff
 .idea/**/workspace.xml
